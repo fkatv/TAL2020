@@ -2,3 +2,6 @@
 /.ipynb_checkpoints
 .vscode
 /.vscode
+.globe
+/.vector_cache
+.vector_cache
